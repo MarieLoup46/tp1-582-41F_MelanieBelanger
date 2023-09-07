@@ -42,10 +42,6 @@ div.grid article {
 	gap: 1rem;
 }
 
-/*div.grid > ul {
-	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-}*/
-
 a {
     color: #009B4D;
 }
